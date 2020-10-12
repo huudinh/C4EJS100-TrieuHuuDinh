@@ -1,0 +1,1 @@
+alert('Chao cac ban');
